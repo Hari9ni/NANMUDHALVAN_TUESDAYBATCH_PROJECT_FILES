@@ -1,5 +1,5 @@
 # NANMUDHALVAN_TUESDAYBATCH_PROJECT_FILES
 PROJECT_CREATED_BY:HARINI B
 # LOGIN_DETAILS 
-user_name:adim
+user_name:admin
 password:admin
